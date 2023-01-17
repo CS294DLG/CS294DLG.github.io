@@ -19,6 +19,8 @@ timeline:
   - '5:00 PM'
   - '5:30 PM'
 schedule:
+  -name: Monday
+
   - name: Tuesday
     events:
       - name: Lecture
@@ -35,15 +37,5 @@ schedule:
         start: 4:00 PM
         end: 5:00 PM
         location: SODA 510
-  - name: Thursday
-    events:
-    - name: Lecture
-        start: 2:00 PM
-        end: 3:30 PM
-        location: Cory 540 AB
-    - name: Nika Office Hours
-        start: 3:30 PM
-        end: 4:30 PM
-        location: SDH 719
-
+        
 ---

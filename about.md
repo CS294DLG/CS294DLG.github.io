@@ -18,7 +18,7 @@ description: >-
 
 ## About
 
-Welcome to the course Webpage for CS294: Decisions, Learning and Games. 
+Welcome to the course webpage for CS294: Decisions, Learning and Games. 
 
 This course introduces students to the mathematical foundation of learning in the presence of strategic and societal agency. This is a theory-oriented course that will draw from the statistical and computational foundations of machine learning, computer science, and economics. As a research-oriented course, a range of advanced topics will be explored to paint a comprehensive picture of classical and modern approaches to learning for the purpose of decision making. These topics include foundations of learning, foundations of algorithmic game theory, cooperative and non-cooperative games, equilibria and dynamics, learning in games, information asymmetries, mechanism design, and learning with incentives. Assigned classwork includes written proof-based homework assignments, participation in discussions and peer evaluations, scribing and contributing to creating enrichment material, and research projects.
 
@@ -31,11 +31,11 @@ Add resources here
 
 ## Course Components
 
-Written assignments: 42% (6 total)
-Peer-Grading: 8%
-Scribing: 7%
-Project: 40%
-Participation: 3%
+- Written assignments: 42% (6 total)
+- Peer-Grading: 8%
+- Scribing: 7%
+- Project: 40%
+- Participation: 3%
 
 ## Homework Information and Policy 
 
@@ -65,11 +65,11 @@ In-person attendance is expected. Lectures will not be recorded and no live stre
 
 3% of the final grade is reserved for class participation. More details will be announced about the participation component.
 
-## Projects
+# Projects
 
 There is a final project for the course. This will be on a topic related to research directions discussed in the class. We will release a set of project ideas to help you with choosing your project and you will have freedom in coming up with your own ideas as well.
 
-### Project Policies
+## Project Policies
 - The project proposal and final report are due the posted deadline. There will be a poster session towards the end of the semester.
 - Project proposal is worth 5%, the final report is worth 25%, and the poster session is 5% of your final grade.
 - Projects are to be done individually. Permission to do a project jointly with other students may be considered depending on the scope of the project. 
