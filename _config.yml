@@ -17,8 +17,8 @@ title: CS294 DLG
 tagline: Course Website for CS294 Decisions, Learning and Games
 description: 
 author: 
-baseurl: '/about/' # the subpath of your site, e.g. /blog
-url: 'https://ashettyv.github.io/cs294dlg/' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/' # the subpath of your site, e.g. /blog
+url: 'cs294dlg.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
