@@ -5,7 +5,7 @@ nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Decisions, Learning and Games
 ---
 
 Welcome to the course webpage for CS294: Decisions, Learning and Games. 
