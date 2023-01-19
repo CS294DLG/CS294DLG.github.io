@@ -45,34 +45,6 @@ In general, written assignments are posted on Tuesdays and are due on Thursdays 
 
 Homeworks will be peer-graded, under the supervision of TA Abhishek Shetty. Each student is required to sign up for grading 1 homework at the beginning of the semester (about 5-7 student-graders per homework). A one-hour grading session will be organized by Abhishek which the student-graders are required to attend. The grading key and all other information will be released in this session and the student-graders will grade a few samples under the supervision of the TA. All grading is to be completed by the grading deadline indicated in the table below. We expect this will take about 3-5 hours of student time in the semester.
 
-|HW No| Date Posted|Due Date|Peer Grading Period|
-|-----|
-HW 0
-01/24
-01/31
-02/1 – 02/3
-HW 1
-02/07
-02/16
-02/17 – 02/20
-HW 2
-02/21
-03/02
-03/3 – 03/6
-HW 3
-03/07
-03/16
-03/17 – 03/20
-HW 4
-04/04
-04/13
-04/14 – 04/17
-HW 5
-04/18
-04/27
-04/28 – 05/1
-
-
 
 
 ### Homework Policy 
