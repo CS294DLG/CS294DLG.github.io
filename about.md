@@ -21,12 +21,15 @@ description: >-
 This course introduces students to the mathematical foundation of learning in the presence of strategic and societal agency. This is a theory-oriented course that will draw from the statistical and computational foundations of machine learning, computer science, and economics. As a research-oriented course, a range of advanced topics will be explored to paint a comprehensive picture of classical and modern approaches to learning for the purpose of decision making. These topics include foundations of learning, foundations of algorithmic game theory, cooperative and non-cooperative games, equilibria and dynamics, learning in games, information asymmetries, mechanism design, and learning with incentives. Assigned classwork includes written proof-based homework assignments, participation in discussions and peer evaluations, scribing and contributing to creating enrichment material, and research projects.
 
 ## Resources
+  - [Lecture Notes](assets/Files/CS294DLG.pdf)
  - [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
  - [Concentration Inequalities](http://www.econ.upf.edu/~lugosi/mlss_conc.pdf)
  - [Game Theory Alive](https://homes.cs.washington.edu/~karlin/GameTheoryBook.pdf)
  - [Bandit Algorithms](https://tor-lattimore.com/downloads/book/book.pdf)
  -  [Introduction to Statistical Leaning Theory](http://www.econ.upf.edu/~lugosi/mlss_slt.pdf)
  -  [Theory of Learning in Games](https://mitpress.mit.edu/9780262529242/the-theory-of-learning-in-games/)
+
+
 
 ## Course Components
 
@@ -36,6 +39,8 @@ This course introduces students to the mathematical foundation of learning in th
 - Project: 40%
 - Participation: 3%
 
+## Discussion Forum
+We will be using [Ed](https://edstem.org/us/courses/35254/discussion/) for discussions, questions and announcements. This is a good opportunity to engage with the material and the rest of the class. 
 ## Homework Information and Policy 
 
 Homework Information and Policy
@@ -57,9 +62,10 @@ Regrade requests can be submitted up to seven days after the grades are released
 - You must sign up to participate in peer-grading for one homework assignment at the beginning of the semester. The TA will oversee this process and the final grade will be to their discretion.
 
 # Scribing
-You will be producing high-quality scribed notes for the lectures. This is an opportunity for you to review and gain a deeper understanding of the content of the lecture. Every student will be responsible for scribing one lecture. Scribing is worth 7% of your final grade. No scribing is needed for the first lecture. A form will be posted to sign up students for scribing after that period.  A lecture will generally be scribed by 1-2 students. 
+You will be producing high-quality scribed notes for the lectures. This is an opportunity for you to review and gain a deeper understanding of the content of the lecture. Every student will be responsible for scribing one lecture. Scribing is worth 7% of your final grade. No scribing is needed for the first lecture. Please sign up on the **[SCRIBE SIGNUP SHEET](https://docs.google.com/spreadsheets/d/1sRWWQ4sfQze2O-Y45J0R-87bkxdWHO0NTPt4l9tCBZw/edit#gid=0)**. A lecture will generally be scribed by 1-2 students. Notes are maintained on a shared Overleaf.
  
 The first draft of the scribed notes are due two work days after the corresponding lecture, i.e Tuesday lecture notes are due on Thursday and Thursday lecture notes are due on the following Monday. You will receive feedback on this draft. The final scribed notes should incorporate the instructors’ feedback and are due within two work days after the initial draft.
+
 
 # Participation
 In-person attendance is expected. Lectures will not be recorded and no live stream is available for the course.
