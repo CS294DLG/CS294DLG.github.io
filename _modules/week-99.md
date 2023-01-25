@@ -3,7 +3,7 @@ title: Future
 ---
 
 Jan 24
-: **HW 0 out**{: .label .label-red }
+: **[HW 0 out](https://edstem.org/us/courses/35254/discussion/2442708)**{: .label .label-red }
   : 
 
 Jan 31
