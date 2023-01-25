@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Course Logistics
 description: >-
     Course policies and information.
 ---
@@ -16,10 +16,6 @@ description: >-
 
 ---
 
-## About
-
-This course introduces students to the mathematical foundation of learning in the presence of strategic and societal agency. This is a theory-oriented course that will draw from the statistical and computational foundations of machine learning, computer science, and economics. As a research-oriented course, a range of advanced topics will be explored to paint a comprehensive picture of classical and modern approaches to learning for the purpose of decision making. These topics include foundations of learning, foundations of algorithmic game theory, cooperative and non-cooperative games, equilibria and dynamics, learning in games, information asymmetries, mechanism design, and learning with incentives. Assigned classwork includes written proof-based homework assignments, participation in discussions and peer evaluations, scribing and contributing to creating enrichment material, and research projects.
-
 ## Resources
   - [Lecture Notes](assets/Files/CS294DLG.pdf)
  - [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
@@ -28,7 +24,6 @@ This course introduces students to the mathematical foundation of learning in th
  - [Bandit Algorithms](https://tor-lattimore.com/downloads/book/book.pdf)
  -  [Introduction to Statistical Leaning Theory](http://www.econ.upf.edu/~lugosi/mlss_slt.pdf)
  -  [Theory of Learning in Games](https://mitpress.mit.edu/9780262529242/the-theory-of-learning-in-games/)
-
 
 
 ## Course Components
