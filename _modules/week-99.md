@@ -2,24 +2,6 @@
 title: Future
 ---
 
-Jan 24
-: **[HW 0 out](https://edstem.org/us/courses/35254/discussion/2442708)**{: .label .label-red }
-  : 
-
-Jan 31
-: **HW 0 due**{: .label .label-red }
-  : 
-
-Feb 01
-: **Grading Period HW 0 start**{: .label .label-green }
-
-Feb 03
-: **Grading Period HW 0 end**{: .label .label-green }
-
-Feb 07
-: **HW 1 out**{: .label .label-red }
-  : 
-
 Feb 16
 : **HW 1 due**{: .label .label-red }
   : 
