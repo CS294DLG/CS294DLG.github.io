@@ -5,7 +5,7 @@ nav_exclude: false
 description: Resources for the class
 ---
 
- - [Lecture Notes](assets/Files/CS294DLG.pdf)
+[## Lecture Notes](assets/Files/CS294DLG.pdf)
 
 ## Further Resources
  - [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
