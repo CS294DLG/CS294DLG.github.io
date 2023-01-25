@@ -1,4 +1,3 @@
-
 ---
 title: Bandits and Partial Feedback
 ---
