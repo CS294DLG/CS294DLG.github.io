@@ -6,6 +6,7 @@ description: Resources for the class
 ---
 
 [## Lecture Notes](assets/Files/CS294DLG.pdf)
+For the most updated version of the notes, please see the overleaf link posted on Ed.
 
 ## Further Resources
  - [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
