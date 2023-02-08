@@ -5,7 +5,7 @@ nav_exclude: false
 description: Resources for the class
 ---
 
-[## Lecture Notes](assets/Files/Scribe_Notes/CS294DLG.pdf)
+[## Lecture Notes](assets/Files/CS294DLG.pdf)
 For the most updated version of the notes, please see the overleaf link posted on Ed.
 
 ## Further Resources
